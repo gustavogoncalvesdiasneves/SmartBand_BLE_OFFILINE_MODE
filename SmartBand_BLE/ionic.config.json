@@ -1,0 +1,7 @@
+{
+  "name": "SmartBand_BLE",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
