@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@ionic-native/background-geolocation": "^5.36.0",
+    "@ionic/storage": "^4.0.0",
+    "@ionic/storage-angular": "^4.0.0"
+  }
+}
